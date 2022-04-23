@@ -1,0 +1,18 @@
+start
+if(int a lebih beasr dari) then(yes)
+    #LightSkyBlue;cout << a lebih besar dari b;
+else (no)
+    #LightSkyBlue;cout << b lebih besar dari a;
+endl
+stop
+
+header
+pertemuan 3
+endheader
+title selection statement menggunakan if else
+caption copyright@esaunggul.ac.id
+legend left
+    CTI211-pemrograman berorientasi Object
+endlegend
+
+@enduml

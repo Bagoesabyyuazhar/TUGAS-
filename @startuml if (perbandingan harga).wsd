@@ -1,0 +1,32 @@
+@startuml if 
+    
+    ' kode baju 1 = H&R
+    ' kode baju 2 = Adidas
+
+    ' ukuran baju 1 = s dan m
+    ' ukuran baju 2 = s dan m
+
+    ' harga kode baju 1 = 45.000
+    ' harga kode baju 2 = 60.000
+
+    ' harga kode baju 2 = 60.000
+    ' harga kode baju 2 = 75.000
+
+    
+    start
+    if(int kode baju 1) then (yes)
+    :merk baju = H&R
+    :ukuran baju = s dan m
+
+    if (ukuran s);
+    elseif (harga = 45.000)
+
+
+
+
+
+
+else
+  :kalau kode salah;
+
+@enduml
